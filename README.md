@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ReactionaryGod&color=dc143c&style=for-the-badge&label=%E2%9C%A6%20VISITORS" alt="visitor counter" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ReactionaryGod.ReactionaryGod&left_color=%230d0d0d&right_color=%23dc143c&left_text=%E2%9C%A6%20VISITORS" alt="visitor counter" />
   <img src="https://img.shields.io/badge/%E6%8E%A8%E3%81%97-my%20waifu-8b0000?style=for-the-badge&labelColor=0d0d0d" alt="oshi badge" />
   <img src="https://img.shields.io/badge/mood-whiskey%20%26%20tears-d4a017?style=for-the-badge&labelColor=0d0d0d" alt="mood badge" />
 </p>
